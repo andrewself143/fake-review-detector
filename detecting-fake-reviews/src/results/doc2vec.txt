@@ -1,0 +1,15 @@
+---------- yelp -----------
+Training:
+ accuracy: 96.06
+ AUC value: 72.28
+Testing:
+ accuracy: 96.24
+ AUC value: 67.15
+
+---------- op_spam -----------
+Training:
+ accuracy: 58.83
+ AUC value: 62.16
+Testing:
+ accuracy: 56.00
+ AUC value: 61.82

@@ -1,0 +1,28 @@
+op_spam NN
+
+Train Loss: 0.692 | Train Acc: 52.64%
+ Val. Loss: 0.689 |  Val. Acc: 58.93%
+Train Loss: 0.684 | Train Acc: 60.22%
+ Val. Loss: 0.688 |  Val. Acc: 49.78%
+Train Loss: 0.667 | Train Acc: 62.74%
+ Val. Loss: 0.658 |  Val. Acc: 62.05%
+Train Loss: 0.610 | Train Acc: 72.00%
+ Val. Loss: 0.585 |  Val. Acc: 71.43%
+Train Loss: 0.535 | Train Acc: 75.00%
+ Val. Loss: 0.519 |  Val. Acc: 77.46%
+ Test Loss: 0.552 |  Test Acc: 70.76%
+
+yelp NN
+
+Train Loss: 0.401 | Train Acc: 85.99%
+ Val. Loss: 0.384 |  Val. Acc: 86.83%
+Train Loss: 0.369 | Train Acc: 86.55%
+ Val. Loss: 0.357 |  Val. Acc: 86.80%
+Train Loss: 0.305 | Train Acc: 87.55%
+ Val. Loss: 0.386 |  Val. Acc: 86.12%
+Train Loss: 0.235 | Train Acc: 90.24%
+ Val. Loss: 0.430 |  Val. Acc: 82.97%
+Train Loss: 0.159 | Train Acc: 93.68%
+ Val. Loss: 0.522 |  Val. Acc: 82.98%
+ Test Loss: 0.519 |  Test Acc: 82.84%
+

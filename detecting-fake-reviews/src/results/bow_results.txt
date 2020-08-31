@@ -1,0 +1,152 @@
+---------- chinese -----------
+------- logistic_regression
+TRAIN DATA
+Results:
+ accuracy: 68.34
+ AUC value: 72.84
+TEST DATA
+Results:
+ accuracy: 66.49
+ AUC value: 66.14
+
+------- naive_bayes
+TRAIN DATA
+Results:
+ accuracy: 66.37
+ AUC value: 69.63
+TEST DATA
+Results:
+ accuracy: 65.51
+ AUC value: 66.59
+
+------- knearest_neighbors
+TRAIN DATA
+Results:
+ accuracy: 77.26
+ AUC value: 83.05
+TEST DATA
+Results:
+ accuracy: 56.71
+ AUC value: 56.77
+
+------- decision_trees
+TRAIN DATA
+Results:
+ accuracy: 98.71
+ AUC value: 99.94
+TEST DATA
+Results:
+ accuracy: 61.47
+ AUC value: 57.58
+
+------- random_forest
+TRAIN DATA
+Results:
+ accuracy: 63.94
+ AUC value: 61.43
+TEST DATA
+Results:
+ accuracy: 63.96
+ AUC value: 58.16
+
+---------- yelp -----------
+------- logistic_regression
+TRAIN DATA
+Results:
+ accuracy: 86.98
+ AUC value: 75.07
+TEST DATA
+Results:
+ accuracy: 86.59
+ AUC value: 70.00
+
+------- naive_bayes
+TRAIN DATA
+Results:
+ accuracy: 76.84
+ AUC value: 68.78
+TEST DATA
+Results:
+ accuracy: 76.09
+ AUC value: 67.09
+
+------- knearest_neighbors
+TRAIN DATA
+Results:
+ accuracy: 87.82
+ AUC value: 86.75
+TEST DATA
+Results:
+ accuracy: 76.14
+ AUC value: 56.05
+
+------- decision_trees
+TRAIN DATA
+Results:
+ accuracy: 99.90
+ AUC value: 100.00
+TEST DATA
+Results:
+ accuracy: 76.98
+ AUC value: 52.55
+
+------- random_forest
+TRAIN DATA
+Results:
+ accuracy: 86.81
+ AUC value: 64.10
+TEST DATA
+Results:
+ accuracy: 86.64
+ AUC value: 62.06
+
+---------- op_spam -----------
+------- logistic_regression
+TRAIN DATA
+Results:
+ accuracy: 100.00
+ AUC value: 100.00
+TEST DATA
+Results:
+ accuracy: 86.75
+ AUC value: 94.47
+
+------- naive_bayes
+TRAIN DATA
+Results:
+ accuracy: 92.50
+ AUC value: 97.85
+TEST DATA
+Results:
+ accuracy: 87.00
+ AUC value: 95.45
+
+------- knearest_neighbors
+TRAIN DATA
+Results:
+ accuracy: 77.50
+ AUC value: 90.02
+TEST DATA
+Results:
+ accuracy: 56.75
+ AUC value: 62.72
+
+------- decision_trees
+TRAIN DATA
+Results:
+ accuracy: 100.00
+ AUC value: 100.00
+TEST DATA
+Results:
+ accuracy: 71.00
+ AUC value: 71.01
+
+------- random_forest
+TRAIN DATA
+Results:
+ accuracy: 68.92
+ AUC value: 77.79
+TEST DATA
+Results:
+ accuracy: 70.50
+ AUC value: 79.40
